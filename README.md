@@ -7,6 +7,7 @@
 • To create a Fish species detection system which will detect objects based on whether it is Shark fish, Star fish or Cat fish.
 
 ## Objectives
+
 • The main objective of the project is to create a program which can be either run on Jetson nano or any pc with YOLOv5 installed and start detecting using the camera module on the device.
     
 • Using appropriate datasets for recognizing and interpreting data using machine learning.
@@ -179,10 +180,9 @@ Running Fish Species Detection Model
 source '0' for webcam
 !python detect.py --weights best.pt --img 416 --conf 0.1 --source 0
 
-## Demo
+## Demo link:- 
 
-
-
+https://youtu.be/Cq8rtgVTcfU
  
 ## Advantages
  
