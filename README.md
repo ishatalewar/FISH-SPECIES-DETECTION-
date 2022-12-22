@@ -2,7 +2,7 @@
 
 ## Aim and Objectives
 
-#Aim
+# Aim
 
 • To create a Fish species detection system which will detect objects based on whether it is Shark fish, Star fish or Cat fish.
 
